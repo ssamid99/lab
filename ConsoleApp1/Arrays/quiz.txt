@@ -1,0 +1,6 @@
+﻿
+    hansi value type dir.
+    .int Array .bool .char class .long
+    
+    2.Ashagidakilardan
+
